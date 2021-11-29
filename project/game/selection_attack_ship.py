@@ -1,7 +1,7 @@
 class Selection_Attack_Ship:
     
     def __init__(self):
-        self._sprit = "project\images\\test_ship.png"
+        self._sprit = "project\images\Galaga_ship_attack.png"
         self._speed = 200
         self._attack_speed = 0.1
         self._defence = 3
